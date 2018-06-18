@@ -24,6 +24,9 @@
     <PackageReleaseNotes>1.0.0</PackageReleaseNotes>
     <PackageTags>android fragment stack</PackageTags>
     <Description>Android library for managing individual fragment backstack.</Description>
+    <PackageLicenseUrl>https://github.com/kibotu/Xamarin.FragmentStack/blob/master/LICENSE.txt</PackageLicenseUrl>
+    <Summary>Android library for managing individual fragment backstack.</Summary>
+    <Title>Xamarin.FragmentStack</Title>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
