@@ -14,6 +14,16 @@
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
     <AndroidUseLatestPlatformSdk>true</AndroidUseLatestPlatformSdk>
     <AndroidClassParser>class-parse</AndroidClassParser>
+    <PackOnBuild>true</PackOnBuild>
+    <PackageId>Xamarin.FragmentStack</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>abhishesh-srivastava</Authors>
+    <NeutralLanguage>en</NeutralLanguage>
+    <Owners>Xamarin.FragmentStack</Owners>
+    <PackageProjectUrl>https://github.com/kibotu/Xamarin.FragmentStack</PackageProjectUrl>
+    <PackageReleaseNotes>1.0.0</PackageReleaseNotes>
+    <PackageTags>android fragment stack</PackageTags>
+    <Description>Android library for managing individual fragment backstack.</Description>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
