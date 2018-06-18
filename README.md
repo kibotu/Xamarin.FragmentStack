@@ -16,7 +16,7 @@ Add [Xamarin.FragmentStack](https://www.nuget.org/packages/Xamarin.FragmentStack
 
 ## How to build
 
-    msbuild Xamarin.MarkdownView.sln /t:Xamarin.MarkdownView /p:Configuration="Release" /p:BuildProjectReferences=false
+    msbuild Xamarin.FragmentStack.sln /t:Xamarin.FragmentStack /p:Configuration="Release" /p:BuildProjectReferences=false
 
 ## How to publish nupkg
 
